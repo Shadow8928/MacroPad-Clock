@@ -33,3 +33,10 @@ In order to move on I decided to skip the case design until the parts are gather
 
 ![cad](macropad-3dmodel.png)
 **Total time spent: 64 Minutes**
+
+# Aug 14
+
+After the CAD model i inputed the information of the project into claude and asked for firmware. I verified and corrected errors in the code until it looked accurate and verified without error.
+
+![firmware](firmware.png)
+**Total time spent: 10 Minutes**
