@@ -27,3 +27,9 @@ in order to start designing the pcb i needed to find some components on aliexpre
 ![pcb](clockday3.png)
 **Total time spent: 89 Minutes**
 
+# Aug 13
+
+In order to move on I decided to skip the case design until the parts are gathered and put together. in the meantime I cad designed how the electronics would look together.  
+
+![cad](macropad-3dmodel.png)
+**Total time spent: 64 Minutes**
